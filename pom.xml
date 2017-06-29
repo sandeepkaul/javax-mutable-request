@@ -1,5 +1,4 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
 	<parent>
@@ -10,7 +9,7 @@
 	
 	<groupId>com.sandeepkaul</groupId>
 	<artifactId>javax-mutalble-request</artifactId>
-	<version>1.0.3-SNAPSHOT</version>
+	<version>1.0.3</version>
 	<packaging>jar</packaging>
 
 	<description>The current implementation of HttpServletRequest does not allow to set headers. This is a wrapper around it to help you modify request headers</description>
@@ -30,7 +29,7 @@
 		<connection>scm:git:https://github.com/sandeepkaul/javax-mutable-request.git</connection>
 		<developerConnection>scm:git:git@github.com:sandeepkaul/javax-mutable-request.git</developerConnection>
 		<url>https://github.com/sandeepkaul/javax-mutable-request</url>
-		<tag>HEAD</tag>
+		<tag>javax-mutalble-request-1.0.3</tag>
 	</scm>
 
 	<developers>
