@@ -1,7 +1,7 @@
 # javax-mutable-request
 
 [![Build Status](https://travis-ci.org/sandeepkaul/javax-mutable-request.svg?branch=master)](https://travis-ci.org/sandeepkaul/javax-mutable-request)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.sandeepkaul/javax-mutable-request/badge.svg)](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.sandeepkaul%22)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.sandeepkaul/javax-mutable-request/badge.svg?style=plastic)](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.sandeepkaul%22)
 
 The current implementation of HttpServletRequest does not allow to set headers. This is a wrapper around it to help you modify request headers
 
