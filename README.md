@@ -11,6 +11,6 @@ Use the following maven dependency to consume this:
 <dependency>
   <groupId>com.sandeepkaul</groupId>
   <artifactId>javax-mutalble-request</artifactId>
-  <version>1.0.3</version>
+  <version>1.0.0</version>
 </dependency>
 ```
